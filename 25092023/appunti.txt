@@ -1,0 +1,7 @@
+web service REST:
+
+autenticazione con user e password
+passare da http ad https
+implementare db
+app OpenAuth2
+
